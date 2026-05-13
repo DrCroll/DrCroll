@@ -38,11 +38,14 @@ I mainly work with Qbox, ox_inventory, ox_target, and ox_lib -- but I build all 
 
 ## Free Stuff
 
-**[Croll-Ammo](https://github.com/DrCroll/Croll-Ammo)** -- Configurable ammo boxes. Server-side rewards, random amounts, job locks, multi-framework.
+**[Croll-Ammo](https://github.com/DrCroll/Croll-Ammo)** &nbsp; ![](https://img.shields.io/github/stars/DrCroll/Croll-Ammo?style=flat-square&color=4AB95A&label=Stars) ![](https://img.shields.io/github/forks/DrCroll/Croll-Ammo?style=flat-square&color=555&label=Forks)
+<br/>Server-side ammo boxes. Random rewards, job locks, rollback, multi-framework.
 
-**[Croll-JobHub](https://github.com/DrCroll/Croll-JobHub)** -- LB-Phone app to place and track job starting positions. Saves on blip locations.
+**[Croll-JobHub](https://github.com/DrCroll/Croll-JobHub)** &nbsp; ![](https://img.shields.io/github/stars/DrCroll/Croll-JobHub?style=flat-square&color=4AB95A&label=Stars) ![](https://img.shields.io/github/forks/DrCroll/Croll-JobHub?style=flat-square&color=555&label=Forks)
+<br/>LB-Phone app for job starting positions and blip management.
 
-**[Croll-Zoom](https://github.com/DrCroll/Croll-Zoom)** -- Standalone shoulder zoom. Hold to zoom, smoothed camera, vehicle/aim guards. No dependencies.
+**[Croll-Zoom](https://github.com/DrCroll/Croll-Zoom)** &nbsp; ![](https://img.shields.io/github/stars/DrCroll/Croll-Zoom?style=flat-square&color=4AB95A&label=Stars) ![](https://img.shields.io/github/forks/DrCroll/Croll-Zoom?style=flat-square&color=555&label=Forks)
+<br/>Standalone shoulder zoom. Smoothed camera, no dependencies.
 
 ## Featured on Tebex
 
