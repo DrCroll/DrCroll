@@ -26,6 +26,5 @@ I mainly work with Qbox, ox_inventory, ox_target, and ox_lib -- but I build all 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrCroll&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrCroll&layout=compact&theme=gotham&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=DrCroll&theme=dark&hide_border=true&ring=4AB95A&fire=FF0000&currStreakLabel=4AB95A" />
 </p>
